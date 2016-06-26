@@ -14,7 +14,7 @@
     ]
   },
   "keywords": [],
-  "author": "Michael Cheng <cheng.c.mike@gmail.com> (http://michaelcheng.io)",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
